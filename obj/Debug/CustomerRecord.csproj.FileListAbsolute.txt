@@ -1,0 +1,14 @@
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.InsertForm.resources
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.LoginForm.resources
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.Properties.Resources.resources
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.ViewForm.resources
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.csproj.GenerateResource.cache
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.csproj.CoreCompileInputs.cache
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\bin\Debug\CustomerRecord.exe.config
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\bin\Debug\CustomerRecord.exe
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\bin\Debug\CustomerRecord.pdb
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.exe
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.pdb
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.csprojAssemblyReference.cache
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.DataGridSearch.resources
+C:\Users\Theen MONZU\Source\Repos\CustomerRecord\CustomerRecord\obj\Debug\CustomerRecord.HomePage.resources
